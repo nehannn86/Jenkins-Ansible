@@ -1,6 +1,6 @@
 
 [slave_nodes]
-node1 ansible_host=172.31.20.90
+node1 ansible_host=172.31.40.46
 
 [slave_nodes:vars]
 ansible_port=22
